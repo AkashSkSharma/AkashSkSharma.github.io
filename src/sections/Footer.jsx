@@ -20,7 +20,7 @@ const Footer = () => {
                     <div className="bg-circle" />
                     <p className="text"> Let's Connect</p>
                     <a 
-                        href="/resume/Akash_Sharma_CV..pdf"
+                        href="/resume/AkashSharmaCv.pdf"
                         download 
                         className="font-bold py-2 px-4 rounded mb-3 text-center"
                     >
